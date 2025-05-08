@@ -27,6 +27,11 @@ Teaching
 
 * Volunteer English Teacher
   * Shantou, China (summer 2019)
+
+Talks
+======
+* [2nd London Workshop on Active Matter](https://www.londonactivematter.co.uk/home) (London, April 2025)
+* [Condensed Matter and Quantum Materials](https://www.iop.org/events/condensed-matter-and-quantum-materials-cmqm-2025) (Bristol, June 2025)
   
 <!-- Skills
 ======
